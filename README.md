@@ -1,5 +1,5 @@
 
-# Exam Malpractice Detection - Final Clean Real Time Project
+# Exam Malpractice Detection 
 
 ## Run Steps
 
