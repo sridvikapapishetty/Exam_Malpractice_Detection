@@ -1,0 +1,23 @@
+RUN THIS PROJECT
+
+1) Extract ZIP. Open extracted folder in VS Code. You should directly see backend, frontend, ml, data.
+
+2) Main terminal:
+pip install -r requirements.txt
+python ml/preprocess.py
+python ml/train_model.py
+python ml/evaluate_model.py
+
+3) Backend terminal:
+cd backend
+python -m uvicorn main:app --reload
+
+4) Frontend terminal:
+cd frontend
+npm install
+npm run dev
+
+Open http://localhost:5173
+
+Admin: admin / admin123
+Evidence password: evidence123

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "demo-test-1",
+    "title": "Real Time MCQ Examination",
+    "duration_minutes": 20,
+    "created_at": "2026-05-28T13:18:05.343748",
+    "questions": [
+      {
+        "question": "What is Machine Learning?",
+        "options": [
+          "Training computers to learn from data",
+          "Only typing code",
+          "Creating hardware",
+          "Deleting files"
+        ],
+        "answer": "Training computers to learn from data"
+      },
+      {
+        "question": "Which model is used for classification?",
+        "options": [
+          "Random Forest",
+          "K-Means",
+          "PCA",
+          "Apriori"
+        ],
+        "answer": "Random Forest"
+      },
+      {
+        "question": "What does DBMS mean?",
+        "options": [
+          "Database Management System",
+          "Data Backup Main Software",
+          "Digital Base Memory Service",
+          "None"
+        ],
+        "answer": "Database Management System"
+      },
+      {
+        "question": "Which classifier combines multiple models?",
+        "options": [
+          "Stacking Classifier",
+          "Bubble Sort",
+          "Linear Search",
+          "HTML Parser"
+        ],
+        "answer": "Stacking Classifier"
+      }
+    ]
+  }
+]
